@@ -1,4 +1,4 @@
-## Customer Segmentation Recommendations
+## Results Overview
 
 Based on the RFM analysis and clustering results, the following recommendations have been tailored for each customer segment. These strategies aim to enhance customer engagement, loyalty, and overall profitability.
 
